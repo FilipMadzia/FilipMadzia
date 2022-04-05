@@ -2,7 +2,10 @@
 
 <table>
    <tr>
-      <td><b>BEANS</b></td>
+      <td><b>Unity</b></td>
+      <td><b>Blender</b></td>
+      <td><b>Gimp</b></td>
+      <td><b>1000101</b></td>
    </tr>
 </table>
 
