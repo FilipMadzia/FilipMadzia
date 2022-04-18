@@ -1,12 +1,5 @@
 <i>"You underestimate my power, Frederick Fitzgerald Fazbear!"</i> ~ Sun Tzu, The Art Of War
 
-<style>
-   i
-   {
-      font-family: Arial;
-   }
-</style>
-
 <table>
    <tr>
       <td><b>Unity</b></td>
