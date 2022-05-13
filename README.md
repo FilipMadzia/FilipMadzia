@@ -1,13 +1,14 @@
-<h1>No siema</h1>
+<h1>Dzień dobry</h1>
 
-<i>"You underestimate my power, Frederick Fitzgerald Fazbear!"</i> ~ Sun Tzu, The Art Of War
+<i>"Nie ma kodu, nie ma błędów"</i> ~ Ja
 
 <table>
    <tr>
-      <td><b>Unity</b></td>
-      <td><b>Blender</b></td>
-      <td><b>Gimp</b></td>
-      <td><b>1000101</b></td>
+      <td><b>C#</b></td>
+      <td><b>CSS</b></td>
+      <td><b>HTML</b></td>
+      <td><b>PHP</b></td>
+      <td><b>PYTHON</b></td>
    </tr>
 </table>
 
