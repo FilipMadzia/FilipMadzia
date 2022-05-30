@@ -7,6 +7,7 @@
       <td><b>C#</b></td>
       <td><b>CSS</b></td>
       <td><b>HTML</b></td>
+      <td><b>Java</b></td>
       <td><b>PHP</b></td>
       <td><b>PYTHON</b></td>
    </tr>
