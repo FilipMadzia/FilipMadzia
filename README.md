@@ -5,11 +5,12 @@
 <table>
    <tr>
       <td><b>C#</b></td>
-      <td><b>CSS</b></td>
       <td><b>HTML</b></td>
-      <td><b>Java</b></td>
+      <td><b>CSS</b></td>
       <td><b>PHP</b></td>
-      <td><b>PYTHON</b></td>
+      <td><b>MySQL</b></td>
+      <td><b>Java</b></td>
+      <td><b>Python</b></td>
    </tr>
 </table>
 
