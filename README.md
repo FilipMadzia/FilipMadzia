@@ -20,7 +20,7 @@
 
 ### Technologies, frameworks and databases
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,laravel,angular,mysql,postgres,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,unity,laravel,angular,mysql,postgres,bootstrap)](https://skillicons.dev)
 
 ### Tools and others
 
