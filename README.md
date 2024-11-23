@@ -1,6 +1,6 @@
 # Filip Madzia, beginner backend developer
 
-<img align="right" width="50%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U4OGszcXR2dXhxZjByMmRmaGprc2N1bnR4ODFqbjZzcmt1OXRkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xViNZg43O5lG1bdnka/giphy.webp" />
+<img align="right" width="40%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U4OGszcXR2dXhxZjByMmRmaGprc2N1bnR4ODFqbjZzcmt1OXRkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xViNZg43O5lG1bdnka/giphy.webp" />
 
 - 🔭 I’m currently working on **preparing for the vocational exam**
 
