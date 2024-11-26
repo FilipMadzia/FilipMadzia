@@ -14,6 +14,8 @@
 
 - 🎬 Favorite movie **Fight Club**
 
+- 🎵 Favorite music artist **Three Days Grace**
+
 ### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=cs,php,java,cpp,html,css,js,ts)](https://skillicons.dev)
@@ -29,4 +31,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=FilipMadzia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" align="right" height="200px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipMadzia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=12" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipMadzia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" height="200px" />
