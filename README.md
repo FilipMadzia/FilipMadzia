@@ -29,6 +29,6 @@
 [![My Skills](https://skillicons.dev/icons?i=rider,idea,visualstudio,vscode,postman,figma,notion,git,github)](https://skillicons.dev)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=FilipMadzia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" align="right" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=FilipMadzia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" align="right" height="190px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipMadzia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=6" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipMadzia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=6" height="190px" />
