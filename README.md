@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **preparing for the vocational exam**
 
-- 🌱 I’m currently learning **Laravel** <img src="https://skillicons.dev/icons?i=laravel" width="16px" />
+- 🌱 I’m currently learning **Laravel** <img src="https://skillicons.dev/icons?i=laravel" width="16px" /> **Unity** <img src="https://skillicons.dev/icons?i=unity" width="16px" />
 
 - 💬 Ask me about **martial arts, language learning**
 
