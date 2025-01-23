@@ -1,8 +1,12 @@
 # Filip Madzia, beginner backend developer
 
-<img align="right" width="40%" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" />
+<img align="right" width="15%" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" />
 
-- 🔭 I’m currently working on **preparing for the vocational exam**
+<img align="right" width="15%" src="https://media.tenor.com/DSSgEy9xAIcAAAAi/hollow-knight.gif" />
+
+<img align="right" width="15%" src="https://media.tenor.com/GVNhvx-uOXAAAAAj/hollow-knight-broken-vessel.gif" />
+
+- 🔭 I’m currently working on **Laravel Rest API**
 
 - 🌱 I’m currently learning **Laravel** <img src="https://skillicons.dev/icons?i=laravel" width="16px" /> **Unity** <img src="https://skillicons.dev/icons?i=unity" width="16px" />
 
