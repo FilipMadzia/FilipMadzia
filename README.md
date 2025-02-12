@@ -1,10 +1,6 @@
 # Filip Madzia, beginner backend developer
 
-<img align="right" width="15%" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" />
-
-<img align="right" width="15%" src="https://media.tenor.com/DSSgEy9xAIcAAAAi/hollow-knight.gif" />
-
-<img align="right" width="15%" src="https://media.tenor.com/GVNhvx-uOXAAAAAj/hollow-knight-broken-vessel.gif" />
+<img align="right" width="40%" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" />
 
 - 🔭 I’m currently working on **Laravel Rest API**
 
