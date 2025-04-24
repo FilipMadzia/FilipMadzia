@@ -2,9 +2,9 @@
 
 <img align="right" width="40%" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" />
 
-- 🔭 I’m currently working on **Laravel Rest API**
+- 🔭 I’m currently working on **Hotel management system**
 
-- 🌱 I’m currently learning **Laravel** <img src="https://skillicons.dev/icons?i=laravel" width="16px" /> **Unity** <img src="https://skillicons.dev/icons?i=unity" width="16px" />
+- 🌱 I’m currently learning **Laravel** <img src="https://skillicons.dev/icons?i=laravel" width="16px" />
 
 - 💬 Ask me about **martial arts, language learning**
 
