@@ -8,9 +8,7 @@
 
 - 💬 Ask me about **martial arts, language learning**
 
-- 📫 How to reach me **filipmadzia34@gmail.com**
-
-- ⚡ Fun fact **I've trained karate kyokushin for 9 years**
+- 📫 How to reach me **filipmadzia33@gmail.com**
 
 - 🎬 Favorite movie **Fight Club**
 
