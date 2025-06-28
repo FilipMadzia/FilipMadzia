@@ -24,7 +24,7 @@
 
 ### Tools and others
 
-[![My Skills](https://skillicons.dev/icons?i=rider,idea,visualstudio,vscode,postman,figma,notion,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rider,idea,visualstudio,vscode,vim,postman,figma,notion,git,github)](https://skillicons.dev)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=FilipMadzia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" align="right" height="190px" />
