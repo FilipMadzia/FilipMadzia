@@ -2,17 +2,9 @@
 
 <img align="right" width="40%" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" />
 
-- 🔭 I’m currently working on **Hotel management system**
-
-- 🌱 I’m currently learning **Laravel** <img src="https://skillicons.dev/icons?i=laravel" width="16px" />
-
-- 💬 Ask me about **martial arts, language learning**
+- 🔭 I’m currently working on **Sudoku mobile game**
 
 - 📫 How to reach me **filipmadzia33@gmail.com**
-
-- 🎬 Favorite movie **Fight Club**
-
-- 🎵 Favorite music artist **Three Days Grace**
 
 ### Languages
 
